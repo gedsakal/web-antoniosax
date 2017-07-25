@@ -48,6 +48,15 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.logodiv {
+	    height: 150px;
+	    width: 150px;
+	    position: absolute;
+	    top: 20px;
+	    right: 20px;
+	    background-image: url("../../images/logo.png");
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
